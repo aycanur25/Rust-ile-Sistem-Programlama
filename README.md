@@ -39,20 +39,3 @@ Rust, düşük seviyeli programlamaya olanak tanıyan bir dildir. Bu örneklerde
 ### 5. Ağ Programlama
 
 Rust, ağ uygulamaları geliştirmek için mükemmel bir dildir. Bu projede, socket programlaması ve ağ üzerinden veri iletimi konuları ele alınacaktır.
-
-## Başlangıç
-
-Bu projeyi yerel makinenize kurmak için aşağıdaki adımları izleyebilirsiniz:
-
-### Gereksinimler
-
-- [Rust](https://www.rust-lang.org/) kurulumu
-- `cargo` komut satırı aracı (Rust ile birlikte gelir)
-
-### Projeyi Klonlama
-
-Bu projeyi klonlamak için terminal üzerinden şu komutu kullanın:
-
-```bash
-git clone https://github.com/your-username/rust-system-programming.git
-cd rust-system-programming
